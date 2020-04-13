@@ -1,0 +1,40 @@
+[Global]
+regs = 380487228 223476520
+chats = 
+cointime = 1586375279
+coinvalue = 4105
+
+[380487228]
+id = 380487228
+balance = 499223
+lvl = 1
+lvlexp = 0
+maxlvlexp = 5
+coins = 0
+kings = 0
+vip = 0
+ban = 0
+rang = 0
+name = Александр
+surname = Замараев
+nick = Player
+
+[223476520]
+id = 223476520
+balance = 500000
+lvl = 1
+lvlexp = 0
+maxlvlexp = 5
+coins = 0
+kings = 0
+vip = 0
+ban = 0
+nickban = 0
+nickbanauthor = 
+nickbanwarn = 
+rang = 0
+rep = 0
+name = Mikhail
+surname = Potemkin
+nick = Player
+
